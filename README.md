@@ -1,6 +1,11 @@
 # Crinkle Contraption
 
-A chess timer-like mechanic for my D&D 5e adventure, *I Unfortunately Lack the Legal Authority to Shut Down Headache Tower*. During a player's turn in the combat with Crinkle, the meter should fill while the player is not rolling dice. When the meter fills, the player whose turn it is should roll d100 at the end of their turn. On 1-89, spawn a Mindwitness. On 90-99, spawn a Star Spawn Hulk. On 00, something weird happens (my version was setting-dependent).
+A chess timer-like mechanic for my D&D 5e adventure, *I Unfortunately Lack the Legal Authority to Shut Down Headache Tower*. During a player's turn in the combat with Crinkle, the meter should fill while the player is not rolling dice.
+
+When the meter fills, the player whose turn it is should roll d100 at the end of their turn.
+- On 1-89, spawn a Mindwitness.
+- On 90-99, spawn a Star Spawn Hulk.
+- On 00, something weird happens (my version was setting-dependent).
 
 There are 6 orbs in the combat room, each represented by a checkbox. When one of these orbs is broken or its cable is severed, the meter fill time is reduced by half. Bertram has a special version of the *Needle of Mending* that allows him to fix any of these that he is adjacent to instantly and as a legendary action.
 
